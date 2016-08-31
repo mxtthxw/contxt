@@ -1,0 +1,39 @@
+body {
+	margin-top: -5%;
+	background-color: #000;
+}
+
+.banner {
+	width: 100%;
+	position: relative;
+	margin: 0 auto;
+}
+
+.player {
+	margin: 0 auto;
+	width: 80%;
+	height: 300px;
+	position: relative;
+}
+
+.play-wrapper {
+	width: 40px;
+	height: 40px;
+	margin: 0 auto;
+}
+
+#play-button {
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+}
+
+#play-button:hover {
+	cursor: pointer;
+}
+
+#soundcloud-widget {
+	position: relative;
+	bottom: 0;
+	display: none;
+}
